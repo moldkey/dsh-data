@@ -1,0 +1,4 @@
+# 数据工具：array to ndjson
+- insert:
+    - id: dsh-data-array-to-ndjson
+      name: "dsh-data-array-to-ndjson"

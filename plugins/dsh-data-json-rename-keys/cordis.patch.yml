@@ -1,0 +1,4 @@
+# 数据工具：json rename keys
+- insert:
+    - id: dsh-data-json-rename-keys
+      name: "dsh-data-json-rename-keys"

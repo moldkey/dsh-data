@@ -1,0 +1,4 @@
+# 数据工具：csv validate
+- insert:
+    - id: dsh-data-csv-validate
+      name: "dsh-data-csv-validate"

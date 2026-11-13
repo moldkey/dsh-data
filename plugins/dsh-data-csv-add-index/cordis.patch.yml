@@ -1,0 +1,4 @@
+# 数据工具：csv add index
+- insert:
+    - id: dsh-data-csv-add-index
+      name: "dsh-data-csv-add-index"

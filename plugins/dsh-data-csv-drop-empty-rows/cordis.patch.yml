@@ -1,0 +1,4 @@
+# 数据工具：csv drop empty rows
+- insert:
+    - id: dsh-data-csv-drop-empty-rows
+      name: "dsh-data-csv-drop-empty-rows"

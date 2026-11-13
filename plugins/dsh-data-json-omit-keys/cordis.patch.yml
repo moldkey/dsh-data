@@ -1,0 +1,4 @@
+# 数据工具：json omit keys
+- insert:
+    - id: dsh-data-json-omit-keys
+      name: "dsh-data-json-omit-keys"

@@ -1,0 +1,4 @@
+# 数据工具：csv select cols
+- insert:
+    - id: dsh-data-csv-select-cols
+      name: "dsh-data-csv-select-cols"

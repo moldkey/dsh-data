@@ -1,0 +1,16 @@
+{
+  "name": "dsh-data-json-omit-keys",
+  "version": "0.1.0",
+  "description": "数据整理：json omit keys",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": ["lib", "cordis.patch.yml", "README.md"],
+  "keywords": ["dsh", "dsh-plugin", "data", "数据", "json_omit_keys"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moldkey/dsh-plugins.git"
+  },
+  "dsh": { "bundle": { "patch": "./cordis.patch.yml" } },
+  "engines": { "dsh": ">=0.2.0-rc.2" }
+}

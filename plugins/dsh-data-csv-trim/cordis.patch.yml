@@ -1,0 +1,4 @@
+# 数据工具：csv trim
+- insert:
+    - id: dsh-data-csv-trim
+      name: "dsh-data-csv-trim"
